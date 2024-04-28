@@ -5,6 +5,7 @@ Model is trained on the Emotions hugging face dataset on six basic emotions: ang
 
 Link: https://huggingface.co/datasets/dair-ai/emotion
 
+*** How to Use *** 
 Train a model using the Jupyter Notebook file.
 To use the model, change your test string and run the python script! 
 
