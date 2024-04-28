@@ -7,6 +7,6 @@ Link: https://huggingface.co/datasets/dair-ai/emotion
 
 # How to use
 Train a model using the Jupyter Notebook file.
-To use the model, change your test string and run the python script! 
+To use the model, change the test string and run the python script! 
 
 Link: https://youtu.be/7YZOik5S3vs?si=lf1lvdtGAmxAIcps
