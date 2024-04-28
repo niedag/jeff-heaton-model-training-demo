@@ -1,0 +1,8 @@
+venv
+venv/
+
+.idea
+fine_tuned_emotions_distilBERT_model/
+logs/
+results
+.ipynb_checkpoints/
