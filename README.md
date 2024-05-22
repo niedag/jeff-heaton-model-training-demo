@@ -12,3 +12,5 @@ To use the model, change the test string and run the python script!
 Link: https://youtu.be/7YZOik5S3vs?si=lf1lvdtGAmxAIcps
 
 This video does not include how to save and utilize the model, you can perform this by saving the model using trianer.save() and then access the model by locally calling the model.
+
+An extension of this video can be grabbing models from Google Vertex's model garden to test other trained models and LLMs
